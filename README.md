@@ -11,3 +11,6 @@
 <h2>📺 YouTube Videos</h2>
 
 - [Ice Bath Tracker Overview](https://www.youtube.com/watch?v=VA67-4BX1Tw)
+
+<h2>🤳 Connect with me:</h2>
+<p>timothy.shon@uconn.edu<br>860-490-8175</p>
