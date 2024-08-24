@@ -13,4 +13,7 @@
 - [Ice Bath Tracker Overview](https://www.youtube.com/watch?v=VA67-4BX1Tw)
 
 <h2>🤳 Connect with me:</h2>
-<p>timothy.shon@uconn.edu<br>860-490-8175</p>
+<ul>
+  <li>timothy.shon@uconn.edu</li>
+  <li>860-490-8175</li>
+</ul>
